@@ -2,9 +2,9 @@
 
 该仓库是 [INTERNETING IS HARD](https://internetingishard.com/) 配套练习代码笔记。
 
-## HHTML & CSS IS HARD
+## HTML & CSS IS HARD
 
-### 第一章：概述
+### [第一章：概述](https://github.com/Benbinbin/INTERNETING-IS-HARD/wiki/Chapter01_Introduction)
 
 ### 第二章：网页基本
 
