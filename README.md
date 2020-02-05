@@ -6,7 +6,7 @@
 
 ### [第一章：概述](https://github.com/Benbinbin/INTERNETING-IS-HARD/wiki/Chapter01_Introduction)
 
-### 第二章：网页基本
+### 第二章：网页基础
 
 ### 第三章：链接与图片
 
