@@ -35,6 +35,17 @@ HTML，CSS 和 JavaScript 是完全不同的语言，但是它们都以某种方
 * 分栏显示：右键选择文件 - > `在侧栏打开`
 
   ![split-right](images/split-right.jpg)
+  
+* 插件
+
+  * [Chinese (Simplified) Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans) 软件汉化包
+  * [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) 括号着色匹配
+  * [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) 拼写检查
+  * **[HTML Boilerplate](https://marketplace.visualstudio.com/items?itemName=sidthesloth.html5-boilerplate)** 基本的 HTML5 模板代码片段生成器
+  * [Image preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview) 图像预览
+  * [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) 启动具有实时重新加载功能的本地服务器，用于静态和动态页面开发
+  * [Polacode-2019](https://marketplace.visualstudio.com/items?itemName=jeff-hykin.polacode-2019) 代码片段图片生成器
+  * [VS Color Picker](https://marketplace.visualstudio.com/items?itemName=lihui.vs-color-picker) 采色器
 
 **浏览器**：使用 Chrome 浏览器打开 `page-one-html`  文件，查看网页渲染效果。当在 VSCode 中修改代码并保存后，可以在浏览器中使用快捷键 `Ctrl + R` 重新渲染网页，查看修改结果。
 
