@@ -14,7 +14,7 @@
 
 按照教材指引创建相应的文件和目录，下载所需[图片](https://internetingishard.com/html-and-css/links-and-images/images-4149f7.zip)并解压。
 
-![files system architecture](images/files system architecture.png)
+![files system architecture](images/files-system-architecture.png)
 
 
 
