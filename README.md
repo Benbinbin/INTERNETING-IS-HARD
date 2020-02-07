@@ -6,9 +6,9 @@
 
 ### [第一章：概述](https://github.com/Benbinbin/INTERNETING-IS-HARD/wiki/Chapter01_Introduction)
 
-### 第二章：网页基础
+### [第二章：网页基础](https://github.com/Benbinbin/INTERNETING-IS-HARD/wiki/Chapter02_Basic_Web_Pages)
 
-### 第三章：链接与图片
+### [第三章：链接与图片](https://github.com/Benbinbin/INTERNETING-IS-HARD/wiki/Chapter03_Links_And_Images)
 
 ### 第四章：CSS
 
