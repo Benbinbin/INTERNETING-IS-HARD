@@ -26,7 +26,7 @@ CSS 设置网页元素样式的基本单位是规则集。每一个规则集都�
 * `property` 属性：需要设置的样式
 * `value` 值：样式值
 
-![css-rule-terminology](F:\Code\HTML\INTERNETING-IS-HARD\C04_HELLO_CSS\images\css-rule-terminology.png)
+![css-rule-terminology](images/css-rule-terminology.png)
 
 **创建 `styles.css` 文档并输入以下代码**
 
@@ -208,7 +208,7 @@ ol {
 
 当使用无序列表元素 `<ul>` 用作菜单导航栏时，属性值一般设置为 `none` ，使列表项的样式更像按钮。更详细的讲解可查看 [第九章：高级定位](../C09_ADVANCED_POSITIONING/C09_ADVANCED_POSITIONING.md)。
 
-![list-items-for-menus](F:\Code\HTML\INTERNETING-IS-HARD\C04_HELLO_CSS\images\list-items-for-menus.png)
+![list-items-for-menus](images/list-items-for-menus.png)
 
 
 
@@ -308,7 +308,7 @@ h1, h2, h3, h4, h5, h6 {
 * 网页内部的样式表（开发者制作的样式表）
 * 内联样式（即在 HTML 元素中设置的 CSS 样式，开发者可以制作，但不推荐使用）
 
-![css-cascade](F:\Code\HTML\INTERNETING-IS-HARD\C04_HELLO_CSS\images\css-cascade.png)
+![css-cascade](images/css-cascade.png)
 
 ### 网页内部样式
 
