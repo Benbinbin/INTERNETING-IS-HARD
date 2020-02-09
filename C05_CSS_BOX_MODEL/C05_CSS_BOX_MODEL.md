@@ -454,7 +454,7 @@ div {
 }
 ```
 
-![resetting-box-sizing-and-margins](F:\Code\HTML\INTERNETING-IS-HARD\C05_CSS_BOX_MODEL\images\resetting-box-sizing-and-margins.png)
+![resetting-box-sizing-and-margins](images/resetting-box-sizing-and-margins.png)
 
 示例将所有 HTML 元素的盒子外边距与内边距预设值修改为 0，并将盒子的计算方式更改 `border-box` 即基于外边框。
 
