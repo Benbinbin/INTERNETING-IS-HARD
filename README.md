@@ -10,7 +10,7 @@
 
 ### [第三章：链接与图片](https://github.com/Benbinbin/INTERNETING-IS-HARD/wiki/Chapter03_Links_And_Images)
 
-### 第四章：CSS
+### [第四章：CSS](https://github.com/Benbinbin/INTERNETING-IS-HARD/wiki/Chapter04_Hello_CSS)
 
 ### 第五章：盒子模型
 

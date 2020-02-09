@@ -273,9 +273,9 @@ HTML 提供 6 级标题标签，从 `<h1>` 到 `<h6>` 数值越大等级越低�
 </html>
 ```
 
-标签 `<em>` 是 inline element 或称为语句型元素（ phrasing content），这类元素所占空间基于其包含的内容（文字）长短，如 `<em>` 元素只是影响段落里的部分文字。
+标签 `<em>` 是 inline element 或称为语句型（ phrasing content）元素，这类元素所占空间基于其包含的内容（文字）长短，如 `<em>` 元素只是影响段落里的部分文字。
 
-相对应的是 block element 或称为文档流型（flow content），这类元素占据一行空间，如 `<p>` 元素。
+相对应的是 block element 或称为文档流型（flow content）元素，这类元素占据一行空间，如 `<p>` 元素。
 
 block elements 和 inline elements 在 [第五章：盒子模型](../C05_CSS_BOX_MODEL/C05_CSS_BOX_MODEL.md) 讲解其对于网页布局的作用。
 
