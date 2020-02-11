@@ -14,9 +14,9 @@
 
 ### [第五章：盒子模型](https://github.com/Benbinbin/INTERNETING-IS-HARD/wiki/Chapter05_CSS_Box_Model)
 
-### 第六章：CSS 选择器
+### [第六章：CSS 选择器](https://github.com/Benbinbin/INTERNETING-IS-HARD/wiki/Chapter06_CSS_Seletors)
 
-### 第七章：浮动布局
+### 第七章：浮动
 
 ### 第八章：Flexbox
 
