@@ -16,7 +16,7 @@
 
 ### [第六章：CSS 选择器](https://github.com/Benbinbin/INTERNETING-IS-HARD/wiki/Chapter06_CSS_Seletors)
 
-### 第七章：浮动
+### [第七章：浮动](https://github.com/Benbinbin/INTERNETING-IS-HARD/wiki/Chapter07_Floats)
 
 ### 第八章：Flexbox
 
