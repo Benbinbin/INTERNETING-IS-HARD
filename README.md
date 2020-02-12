@@ -18,7 +18,7 @@
 
 ### [第七章：浮动](https://github.com/Benbinbin/INTERNETING-IS-HARD/wiki/Chapter07_Floats)
 
-### 第八章：Flexbox
+### [第八章：Flexbox](https://github.com/Benbinbin/INTERNETING-IS-HARD/wiki/Chapter08_Flexbox)
 
 ### 第九章：高级定位
 
