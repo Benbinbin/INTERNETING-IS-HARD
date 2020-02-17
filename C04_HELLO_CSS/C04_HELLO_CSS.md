@@ -14,6 +14,66 @@
 
 按照教材创建 `hello-css.html` 和 `dummy.html` 文档，并编写 HTML 模板代码。
 
+文档 `hello-css.html`
+
+```html
+<!DOCTYPE html>
+<html lang='en'>
+  <head>
+    <meta charset='UTF-8'/>
+    <title>Hello, CSS</title>
+  </head>
+  <body>
+    <h1>Hello, CSS</h1>
+
+    <p>CSS lets us style HTML elements. There’s also
+       <a href='dummy.html'>another page</a> associated with this example.</p>
+
+    <h2>List Styles</h2>
+
+    <p>You can style unordered lists with the following bullets:</p>
+
+    <ul>
+      <li>disc</li>
+      <li>circle</li>
+      <li>square</li>
+    </ul>
+
+    <p>And you can number ordered lists with the following:</p>
+
+    <ol>
+      <li>decimal</li>
+      <li>lower-roman</li>
+      <li>upper-roman</li>
+      <li>lower-alpha</li>
+      <li>upper-alpha</li>
+      <li>(and many more!)</li>
+    </ol>
+  </body>
+</html>
+```
+
+文档 `dummy.html`
+
+```html
+<!DOCTYPE html>
+<html lang='en'>
+  <head>
+    <meta charset='UTF-8'/>
+    <title>Dummy</title>
+  </head>
+  <body>
+    <h1>Dummy</h1>
+
+    <p>This is a dummy page that helps us demonstrate reusable CSS
+       stylesheets. <a href='hello-css.html'>Go back</a>.</p>
+
+    <p>Want to try crossing out an <a href='nowhere.html'>obsolete link</a>? This
+       is your chance!</p>
+  </body>
+</html>
+```
+
 
 
 ## CSS 样式表

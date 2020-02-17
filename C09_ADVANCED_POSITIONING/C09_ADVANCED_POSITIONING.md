@@ -18,6 +18,80 @@
 
 按照教程创建目录 `advanced-positioning`，在其中创建 `shemes.html` 和 `styles.css` 文档，并编写模板代码。下载图片文件。
 
+ 文档 `shemes.html`
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='UTF-8'/>
+    <title>Positioning Is Easy!</title>
+    <link href='styles.css' rel='stylesheet'/>
+  </head>
+  <body>
+
+    <div class='container'>
+      <div class='example relative'>
+        <div class='item'><img src='images/static.svg' /></div>
+        <div class='item item-relative'><img src='images/relative.svg' /></div>
+        <div class='item'><img src='images/static.svg' /></div>
+      </div>
+    </div>
+    
+    <div class='container'>
+      <div class='example absolute'>
+        <div class='item'><img src='images/static.svg' /></div>
+        <div class='item item-absolute'><img src='images/absolute.svg' /></div>
+        <div class='item'><img src='images/static.svg' /></div>
+      </div>
+    </div>
+
+    <div class='container'>
+      <div class='example fixed'>
+        <div class='item'><img src='images/static.svg' /></div>
+        <div class='item item-fixed'><img src='images/fixed.svg' /></div>
+        <div class='item'><img src='images/static.svg' /></div>
+      </div>
+    </div>
+
+  </body>
+</html>
+```
+
+文档 `sytles.css`
+
+```css
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 1200px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.example {
+  display: flex;
+  justify-content: space-around;
+  
+  width: 800px;
+  margin: 50px 0;
+  background-color: #D6E9FE;
+}
+
+.item img {
+  display: block;
+}
+```
+
+
+
 ![project-files](images/project-files.png)
 
 

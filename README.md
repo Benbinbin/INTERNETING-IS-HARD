@@ -20,9 +20,9 @@
 
 ### [第八章：Flexbox](https://github.com/Benbinbin/INTERNETING-IS-HARD/wiki/Chapter08_Flexbox)
 
-### 第九章：高级定位
+### [第九章：高级定位](https://github.com/Benbinbin/INTERNETING-IS-HARD/wiki/Chapter09_Advanced_Positioning)
 
-### 第十章：响应式设计
+### [第十章：响应式设计](https://github.com/Benbinbin/INTERNETING-IS-HARD/wiki/Chapter10_Responsive_Design)
 
 ### 第十一章：响应式图片
 

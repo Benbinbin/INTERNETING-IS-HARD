@@ -21,6 +21,37 @@
 
 创建 `floats.html` 和 `styles.css` 文档，并编写模板代码。
 
+文档 `floats.html`
+
+```html
+<!DOCTYPE html>
+<html lang='en'>
+  <head>
+    <meta charset='UTF-8' />
+    <title>Floats</title>
+    <link rel='stylesheet' href='styles.css'/>
+  </head>
+  <body>
+    <div class='page'>
+      <div class='menu'>Menu</div>
+      <div class='sidebar'>Sidebar</div>
+      <div class='content'>Content</div>
+      <div class='footer'>Footer</div>
+    </div>
+  </body>
+</html>
+```
+
+文档 `styles.css`
+
+```css
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+```
+
 
 
 ## 默认 HTML 布局行为

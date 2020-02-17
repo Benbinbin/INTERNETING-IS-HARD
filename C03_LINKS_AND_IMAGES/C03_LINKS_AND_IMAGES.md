@@ -12,7 +12,51 @@
 
 ## 配置
 
-按照教材指引创建相应的文件和目录，下载所需[图片](https://internetingishard.com/html-and-css/links-and-images/images-4149f7.zip)并解压。
+按照教材指引创建相应的文件和目录，并编写预板代码。下载所需[图片](https://internetingishard.com/html-and-css/links-and-images/images-4149f7.zip)并解压。
+
+文档 `links.html`
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Links</title>
+  </head>
+  <body>
+    <h1>Links</h1>
+  </body>
+</html>
+```
+
+文档 `images.html`
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Images</title>
+  </head>
+  <body>
+    <h1>Images</h1>
+  </body>
+</html>
+```
+
+文档 `extras.html`
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Extras</title>
+  </head>
+  <body>
+    <h1>Extras</h1>
+  </body>
+</html>
+```
+
+
 
 ![files system architecture](images/files-system-architecture.png)
 

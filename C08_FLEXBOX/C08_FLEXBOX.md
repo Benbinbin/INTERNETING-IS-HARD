@@ -16,6 +16,49 @@ Floats 技术早期本用于实现杂志样式布局而设计，因此只能控�
 
 创建目录 `flexbox` 并在其中创建 `flexbox.hmtl` 和 `styles.css` 文档，编写模板代码。最后下载所需的图片文件。
 
+文档 `flexbox.html`
+
+```html
+<!DOCTYPE html>
+<html lang='en'>
+  <head>
+    <meta charset='UTF-8'/>
+    <title>Some Web Page</title>
+    <link rel='stylesheet' href='styles.css'/>
+  </head>
+  <body>
+    <div class='menu-container'>
+      <div class='menu'>
+        <div class='date'>Aug 14, 2016</div>
+        <div class='signup'>Sign Up</div>
+        <div class='login'>Login</div>
+      </div>
+    </div>
+  </body>
+</html>
+```
+
+文档 `styles.css`
+
+```css
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.menu-container {
+  color: #fff;
+  background-color: #5995DA;  /* Blue */
+  padding: 20px 0;
+}
+
+.menu {
+  border: 1px solid #fff;  /* For debugging */
+  width: 900px;
+}
+```
+
 文件目录结构如下：
 
 ![project-files](images/project-files.png)

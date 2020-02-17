@@ -18,6 +18,35 @@ CSS 选择器可以将样式应用到特定的 HTML 元素中。CSS 选择器有
 
 根据教材创建 `selectors.html` 和 `styles.css` 文档，并编写预设代码。
 
+文档 `selectors.html`
+
+```html
+<!DOCTYPE html>
+<html lang='en'>
+  <head>
+    <meta charset='UTF-8'/>
+    <title>CSS Selectors</title>
+    <link rel='stylesheet' href='styles.css'/>
+  </head>
+  <body>
+    <h1>CSS Selectors</h1>
+
+    <p>CSS selectors let you <em>select</em> individual HTML elements in an HTML
+       document. This is <strong>super</strong> useful.</p>
+
+    <p>Classes are ridiculously important, since they allow you to select
+       arbitrary boxes in your web pages.</p>
+
+    <p>We’ll also be talking about links in this example, so here’s
+       <a href='https://internetingishard.com'>Interneting Is Hard</a> for us to
+       style.</p>
+
+    <div>Button One</div>
+
+  </body>
+</html>
+```
+
 
 
 ## 类别选择器

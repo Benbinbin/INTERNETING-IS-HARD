@@ -14,6 +14,28 @@ CSS 盒子模型是一系列规定网页布局的规则，CSS 以「盒子」为
 
 按照教材创建 `boxes.html` 和 `box-styles.css` 文档，并编写 HTML 模板代码。
 
+文档 `boxes.html`
+
+```html
+<!DOCTYPE html>
+<html lang='en'>
+  <head>
+    <meta charset='UTF-8'/>
+    <title>Boxes Are Easy!</title>
+    <link rel='stylesheet' href='box-styles.css'/>
+  </head>
+  <body>
+    <h1>Headings Are Block Elements</h1>
+
+    <p>Paragraphs are blocks, too. <em>However</em>, &lt;em&gt; and &lt;strong&gt;
+       elements are not. They are <strong>inline</strong> elements.</p>
+
+    <p>Block elements define the flow of the HTML document, while inline elements
+       do not.</p>
+  </body>
+</html>
+```
+
 
 
 ## 块元素与行内元素
