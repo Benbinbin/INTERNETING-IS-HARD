@@ -24,7 +24,7 @@
 
 ### [第十章：响应式设计](https://github.com/Benbinbin/INTERNETING-IS-HARD/wiki/Chapter10_Responsive_Design)
 
-### 第十一章：响应式图片
+### [第十一章：响应式图片](https://github.com/Benbinbin/INTERNETING-IS-HARD/wiki/Chapter11_Responsive_Images)
 
 ### 第十二章：HTML 语义标签
 
