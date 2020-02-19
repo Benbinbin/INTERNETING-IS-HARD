@@ -26,7 +26,7 @@
 
 ### [第十一章：响应式图片](https://github.com/Benbinbin/INTERNETING-IS-HARD/wiki/Chapter11_Responsive_Images)
 
-### 第十二章：HTML 语义标签
+### [第十二章：HTML 语义标签](https://github.com/Benbinbin/INTERNETING-IS-HARD/wiki/Chapter12_Semantic_HTML)
 
 ### 第十三章：表单
 
