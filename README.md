@@ -28,6 +28,6 @@
 
 ### [第十二章：HTML 语义标签](https://github.com/Benbinbin/INTERNETING-IS-HARD/wiki/Chapter12_Semantic_HTML)
 
-### 第十三章：表单
+### [第十三章：表单](https://github.com/Benbinbin/INTERNETING-IS-HARD/wiki/Chapter13_HTML_Forms)
 
 ### 第十四章：字体

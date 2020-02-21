@@ -210,7 +210,7 @@ Flexbox 弹性布局使用两类盒子模型：
 * `center` 居中对齐
 * `flex-start` 顶部对齐
 * `flex-end` 底部对齐
-* `stretch` 项目占满整个容器的高度（如果项目未设置高度或设为 `auto`）
+* `stretch` 项目占满整个容器的高度（默认值，如果项目未设置高度或设为 `auto`）
 * `baseline` 项目的第一行文字的基线对齐
 
 **在 `flexbox.html` 文档中盒子 `.menu-container` 下添加代码：**
